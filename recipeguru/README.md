@@ -1,5 +1,3 @@
-This is a project whose parts where implemented during "Complete Intro to SQL and PostgreSQL", by Brian Holt. 
-
 recipes.sql is the data that was used for the implementation of the website.
 
 The queries that were implemented are inside recipes/app.js and ingredients/app.js.
